@@ -1,8 +1,7 @@
 # 🎨 Gemini AI Image Studio
 
 A sleek, modern web application that harnesses the power of Google's Gemini AI to transform and generate images based on your prompts. Built with Python and Gradio, featuring a beautiful dark-themed UI.
-
-![Gemini AI Image Studio](https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png)
+![Screenshot 2025-03-23 172811](https://github.com/user-attachments/assets/38277baf-4b7d-4ee5-a5e9-f2c9066e5312)
 
 ## ✨ Features
 
