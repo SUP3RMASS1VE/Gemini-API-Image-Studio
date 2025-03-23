@@ -22,18 +22,13 @@ A sleek, modern web application that harnesses the power of Google's Gemini AI t
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SUP3RMASS1VE/Gemini-API-Image-Studio
 cd gemini-image-studio
 ```
 
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
-```
-
-3. Create a `.env` file in the root directory and add your Gemini API key:
-```bash
-GEMINI_API_KEY=your_api_key_here
 ```
 
 ### Running the App
