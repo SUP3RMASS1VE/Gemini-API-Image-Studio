@@ -1,0 +1,4 @@
+gradio
+Pillow>=9.0.0
+google-genai==1.5.0
+python-dotenv>=1.0.0 
